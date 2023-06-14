@@ -17,6 +17,7 @@ public class ShoppingCartTest extends BaseClass {
 		super();
 		System.out.println("null");
 		System.out.println("add user v2");
+		System.out.println("add user v3");
 	}
 	
 	
